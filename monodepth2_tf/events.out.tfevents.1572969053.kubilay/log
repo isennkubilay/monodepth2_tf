@@ -1,0 +1,36 @@
+Building ResNet-18 Model
+	Building unit: conv1
+	Buildint residual unit: monodepth2_model/encoder/conv2_1
+	Buildint residual unit: monodepth2_model/encoder/conv2_2
+	Building residual unit: monodepth2_model/encoder/conv3_1
+	Buildint residual unit: monodepth2_model/encoder/conv3_2
+	Building residual unit: monodepth2_model/encoder/conv4_1
+	Buildint residual unit: monodepth2_model/encoder/conv4_2
+	Building residual unit: monodepth2_model/encoder/conv5_1
+	Buildint residual unit: monodepth2_model/encoder/conv5_2
+Building Depth Decoder Model
+Building ResNet-18 Model
+	Building unit: conv1
+	Buildint residual unit: monodepth2_model/pose_encoder/conv2_1
+	Buildint residual unit: monodepth2_model/pose_encoder/conv2_2
+	Building residual unit: monodepth2_model/pose_encoder/conv3_1
+	Buildint residual unit: monodepth2_model/pose_encoder/conv3_2
+	Building residual unit: monodepth2_model/pose_encoder/conv4_1
+	Buildint residual unit: monodepth2_model/pose_encoder/conv4_2
+	Building residual unit: monodepth2_model/pose_encoder/conv5_1
+	Buildint residual unit: monodepth2_model/pose_encoder/conv5_2
+Building ResNet-18 Model
+	Building unit: conv1
+	Buildint residual unit: monodepth2_model/pose_encoder/conv2_1
+	Buildint residual unit: monodepth2_model/pose_encoder/conv2_2
+	Building residual unit: monodepth2_model/pose_encoder/conv3_1
+	Buildint residual unit: monodepth2_model/pose_encoder/conv3_2
+	Building residual unit: monodepth2_model/pose_encoder/conv4_1
+	Buildint residual unit: monodepth2_model/pose_encoder/conv4_2
+	Building residual unit: monodepth2_model/pose_encoder/conv5_1
+	Buildint residual unit: monodepth2_model/pose_encoder/conv5_2
+Building Pose Decoder Model
+Building Pose Decoder Model
+2019-11-06 15:46:07.526616: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+load trained model
+load pretrained model from: events.out.tfevents.1572969053.kubilay
