@@ -76,6 +76,10 @@ python monodepth2.py train config/monodepth2_kitti.yml events.out.tfevents.15729
 python monodepth_single.py --image_path ~/monodepth_tf/0000000003.png --checkpoint_path ~/monodepth_tf/utils/output_directory/events.out.tfevents.1572969053.kubilay
 ```
 
+<p align="center">
+  <img src="results/0000000000.png" img src=results/0000000000_disp.png alt="example input output" width="600" />
+</p>
+
 
 ## Reference Codes
 - Monodepth2
