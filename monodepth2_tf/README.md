@@ -77,7 +77,7 @@ python monodepth_single.py --image_path ~/monodepth_tf/0000000003.png --checkpoi
 ```
 
 <p align="center">
-  <img src="results/0000000000.png" img src=results/0000000000_disp.png alt="example input output" width="600" />
+  <img src="results/final_result_1.PNG" alt="example input output" width="600" />
 </p>
 
 
