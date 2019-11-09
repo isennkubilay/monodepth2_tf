@@ -59,8 +59,7 @@ python monodepth2_tf/monodepth2.py--dataset_dir=/home/isen/ --dataset_name="kitt
 
 ## Demonstration
 <p align="center">
-<a href=<img src="results/prepare_train_data_result.png"
-alt="demo for tf_monodepth2" width="720" height="540" /></a>
+  <img src="results/prepare_train_data_result.png" alt="results/result_2.png" width="600" />
 </p>
 
 
