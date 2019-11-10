@@ -30,8 +30,8 @@ https://drive.google.com/file/d/1Bk9gMrzuF_QrDRv11ILrqv3xHvqxZR2a/view?usp=shari
 
 
 ## Prerequisites
-Tensorflow 1.13 cpu version and Ubuntu 18.04
-I created fresh environment. I called this environment name 'stm'  
+> Tensorflow 1.13 cpu version and Ubuntu 18.04
+> I created fresh environment. I called this environment name 'stm'  
 ## Setup
 Assuming a fresh [Anaconda](https://www.anaconda.com/download/) distribution, you can install the dependencies with:
 ```shell
@@ -60,7 +60,7 @@ python monodepth2_tf/monodepth2.py--dataset_dir=/home/isen/ --dataset_name="kitt
 
 ## Demonstration
 <p align="center">
-  <img src="results/prepare_train_data_result.png" alt="results/result_2.png" width="600" />
+  <img src="monodepth2_tf/results/prepare_train_data_result.png" alt="monodepth2_tf/results/result_2.png" width="600" />
 </p>
 
 
@@ -78,7 +78,7 @@ python monodepth_single.py --image_path ~/monodepth_tf/0000000003.png --checkpoi
 ```
 
 <p align="center">
-  <img src="results/final_result_1.PNG" alt="example input output" width="600" />
+  <img src="monodepth2_tf/results/final_result_1.PNG" alt="example input output" width="600" />
 </p>
 
 
