@@ -24,8 +24,8 @@ Tensorflow implementation for the method in Self-Supervised Monocular Depth Pred
 ```
 
 ## Eval Result (with pretrained model link)
-> https://drive.google.com/file/d/13jYuDrHiK9uoRmu1rXUxSBv-yEx6tzWJ/view?usp=sharing
-> https://drive.google.com/file/d/1Bk9gMrzuF_QrDRv11ILrqv3xHvqxZR2a/view?usp=sharing
+> * https://drive.google.com/file/d/13jYuDrHiK9uoRmu1rXUxSBv-yEx6tzWJ/view?usp=sharing
+> * https://drive.google.com/file/d/1Bk9gMrzuF_QrDRv11ILrqv3xHvqxZR2a/view?usp=sharing
 
 
 
