@@ -30,8 +30,8 @@ Tensorflow implementation for the method in Self-Supervised Monocular Depth Pred
 
 
 ## Prerequisites
-> Tensorflow 1.13 cpu version and Ubuntu 18.04
-> I created fresh environment. I called this environment name 'stm'  
+> * Tensorflow 1.13 cpu version and Ubuntu 18.04
+> * I created fresh environment. I called this environment name 'stm'  
 ## Setup
 Assuming a fresh [Anaconda](https://www.anaconda.com/download/) distribution, you can install the dependencies with:
 ```shell
@@ -43,13 +43,12 @@ conda install -c anaconda scikit-image
 conda install -c conda-forge tensorflow 
 ```
 ## Setup Specs 
->Ubuntu 18.04
->Python 3.6
->Tensorflow(cpu) 1.13
->GeForce MX150
->Intel® Core™ i7-8550U CPU @ 1.80GHz × 8 
->15.5 GB
->Gnome 3.28.2
+> * Ubuntu 18.04
+> * Python 3.6
+> * Tensorflow(cpu) 1.13
+> * GeForce MX150
+> * Intel® Core™ i7-8550U CPU @ 1.80GHz × 8 15.5 GB
+> * Gnome 3.28.2
 
 ## Preparing training data
 
