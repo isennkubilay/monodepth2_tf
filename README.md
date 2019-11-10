@@ -6,7 +6,7 @@ Tensorflow implementation for the method in Self-Supervised Monocular Depth Pred
 > [arXiv 2018](https://arxiv.org/abs/1806.01260)
 
 <p align="center">
-  <img src="results/result_2.png" alt="results/result_2.png" width="600" />
+  <img src="monodepth2_tf/monodepth2_tf/results" alt="monodepth2_tf/monodepth2_tf/results/" width="600" />
 </p>
 
 
