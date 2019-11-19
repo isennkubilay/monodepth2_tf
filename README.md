@@ -28,7 +28,7 @@ Tensorflow implementation for the method in Self-Supervised Monocular Depth Pred
 > * Tensorflow 1.13 cpu version and Ubuntu 18.04
 > * I created fresh environment. I called this environment name 'stm'  
 ## Setup
-Assuming a fresh [Anaconda](https://www.anaconda.com/download/) distribution, you can install the dependencies with:
+Assuming a fresh [Anaconda](https://www.anaconda.com/download/) distribution, I installed the dependencies with:
 ```shell
 conda create -n stm python=3.6
 conda activate stm
