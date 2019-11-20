@@ -1,7 +1,7 @@
 dataset:
     root_dir: '/home/isen/kitti/formatted/data'
     image_height: 192
-    image_width: 640
+    image_width: 416
     min_depth: 0.1
     max_depth: 100.
     preprocess: True
