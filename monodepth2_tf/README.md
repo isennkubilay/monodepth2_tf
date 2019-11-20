@@ -48,7 +48,7 @@ conda install -c conda-forge tensorflow
 
 For [KITTI](http://www.cvlibs.net/datasets/kitti/raw_data.php), first download the dataset
 ```bash
-python monodepth2_tf/monodepth2.py--dataset_dir=/home/isen/ --dataset_name="kitti_raw_eigen" --save_root=/home/isen/kitti/formatted/data --seq_length=3 --img_width=416 --img_height=128 --num_threads=4
+python monodepth2_tf/data/prepare_train_data.py --dataset_dir=/home/isen/ --dataset_name="kitti_raw_eigen" --save_root=/home/isen/kitti/formatted/data --seq_length=3 --img_width=416 --img_height=128 --num_threads=4
 ```
 
 ## Demonstration
